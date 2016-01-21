@@ -1,0 +1,4 @@
+[migrate]
+!migrate [playerName, ... ] - Migrates a set of players to the next named host.
+"!migrate Eddy" migrates the player named Eddy
+"!migrate Eddy Sal Drago399" migrates the players Eddy, Sal, and Drago399
